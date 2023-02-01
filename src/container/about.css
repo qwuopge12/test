@@ -1,0 +1,58 @@
+.Deed{
+    width:174px;
+    height:231px;
+    
+    border-radius: 20px;
+}
+.Deed img{
+    width:174px;
+    height:231px;
+    object-fit: cover;
+    border-radius: 15px;
+    transition: 0.7s;
+    overflow: hidden;
+   
+
+
+}
+.Deed img:hover{
+    transition: 0.7s;
+    transform: scale(1.1);
+    border-radius: 15px;
+    
+}
+
+.agaar{
+    width:176px;
+    height:300px;
+    display:flex;
+    justify-content: center;
+}
+
+.agaar img{
+    width:174px;
+    height:231px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.agaar h4{
+    width:166px;
+    height:44px;
+    font-weight:560
+}
+.Deed h4{
+    width:166px;
+    height:22px;
+    font-weight:560
+
+}
+.uliral{
+    display:flex;
+    justify-content: center;
+}
+
+.gontainer{
+    width:73%;
+    height:300px;
+    margin: 10px 250px 10px 200px
+}

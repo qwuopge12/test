@@ -1,0 +1,20 @@
+.card{
+    width:224px;
+    height:262;
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card img{
+    width:208px;
+    height:208px;
+    border-radius: 50%;
+}
+.vox{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    padding:50px 200px 50px 200px
+}
